@@ -1,5 +1,0 @@
-c:\users\shay\documents\visual studio 2012\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\MyLogger.dll
-c:\users\shay\documents\visual studio 2012\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\MyLogger.pdb
-c:\users\shay\documents\visual studio 2012\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\MyLogger.csprojResolveAssemblyReference.cache
-c:\users\shay\documents\visual studio 2012\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\MyLogger.dll
-c:\users\shay\documents\visual studio 2012\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\MyLogger.pdb

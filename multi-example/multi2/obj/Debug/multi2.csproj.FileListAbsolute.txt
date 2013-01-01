@@ -1,6 +1,0 @@
-c:\users\shay\documents\visual studio 2012\Projects\multi-example\multi2\bin\Debug\multi2.dll
-c:\users\shay\documents\visual studio 2012\Projects\multi-example\multi2\bin\Debug\multi2.pdb
-c:\users\shay\documents\visual studio 2012\Projects\multi-example\multi2\bin\Debug\MyLogger.dll
-c:\users\shay\documents\visual studio 2012\Projects\multi-example\multi2\obj\Debug\multi2.csprojResolveAssemblyReference.cache
-c:\users\shay\documents\visual studio 2012\Projects\multi-example\multi2\obj\Debug\multi2.dll
-c:\users\shay\documents\visual studio 2012\Projects\multi-example\multi2\obj\Debug\multi2.pdb

@@ -1,9 +1,0 @@
-c:\users\shay\documents\visual studio 2012\Projects\multi-example\multi3\bin\Debug\multi3.dll
-c:\users\shay\documents\visual studio 2012\Projects\multi-example\multi3\bin\Debug\multi3.pdb
-c:\users\shay\documents\visual studio 2012\Projects\multi-example\multi3\bin\Debug\MyLogger.dll
-c:\users\shay\documents\visual studio 2012\Projects\multi-example\multi3\bin\Debug\Ninject.dll
-c:\users\shay\documents\visual studio 2012\Projects\multi-example\multi3\bin\Debug\Ninject.pdb
-c:\users\shay\documents\visual studio 2012\Projects\multi-example\multi3\bin\Debug\Ninject.xml
-c:\users\shay\documents\visual studio 2012\Projects\multi-example\multi3\obj\Debug\multi3.csprojResolveAssemblyReference.cache
-c:\users\shay\documents\visual studio 2012\Projects\multi-example\multi3\obj\Debug\multi3.dll
-c:\users\shay\documents\visual studio 2012\Projects\multi-example\multi3\obj\Debug\multi3.pdb
