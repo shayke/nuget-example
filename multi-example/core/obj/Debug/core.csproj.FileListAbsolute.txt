@@ -1,0 +1,1 @@
+C:\Users\Shay\Desktop\nuget-example\multi-example\core\obj\Debug\core.csprojResolveAssemblyReference.cache

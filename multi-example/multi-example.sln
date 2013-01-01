@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2012 for Windows Desktop
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "multi1", "multi1\multi1.csproj", "{AFCF5EBB-BC6A-42C7-AC40-38548680B845}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "core", "core\core.csproj", "{AFCF5EBB-BC6A-42C7-AC40-38548680B845}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "multi2", "multi2\multi2.csproj", "{B8CD21CA-85E4-404A-8263-8E8A2B2834F6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api", "api\api.csproj", "{B8CD21CA-85E4-404A-8263-8E8A2B2834F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "multi3", "multi3\multi3.csproj", "{0FAC1A5D-F94E-4AF9-B7D9-AC1278F4C48B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "services", "services\services.csproj", "{0FAC1A5D-F94E-4AF9-B7D9-AC1278F4C48B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

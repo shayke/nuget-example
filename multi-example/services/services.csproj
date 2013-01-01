@@ -7,8 +7,8 @@
     <ProjectGuid>{0FAC1A5D-F94E-4AF9-B7D9-AC1278F4C48B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>multi3</RootNamespace>
-    <AssemblyName>multi3</AssemblyName>
+    <RootNamespace>services</RootNamespace>
+    <AssemblyName>services</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
