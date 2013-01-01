@@ -1,2 +1,1 @@
-nuget-example
-=============
+Sample projects for NuGet packaging and for using this package from a multi project.
