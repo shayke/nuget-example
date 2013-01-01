@@ -1,0 +1,8 @@
+out
+_ReSharper*
+bin
+obj
+*.suo
+*.user
+packages
+*.tmp

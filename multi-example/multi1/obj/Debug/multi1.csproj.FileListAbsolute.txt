@@ -1,0 +1,11 @@
+c:\users\shay\documents\visual studio 2012\Projects\multi-example\multi1\bin\Debug\multi1.dll
+c:\users\shay\documents\visual studio 2012\Projects\multi-example\multi1\bin\Debug\multi1.pdb
+c:\users\shay\documents\visual studio 2012\Projects\multi-example\multi1\bin\Debug\MyLogger.dll
+c:\users\shay\documents\visual studio 2012\Projects\multi-example\multi1\bin\Debug\Newtonsoft.Json.dll
+c:\users\shay\documents\visual studio 2012\Projects\multi-example\multi1\bin\Debug\Ninject.dll
+c:\users\shay\documents\visual studio 2012\Projects\multi-example\multi1\bin\Debug\Newtonsoft.Json.xml
+c:\users\shay\documents\visual studio 2012\Projects\multi-example\multi1\bin\Debug\Ninject.pdb
+c:\users\shay\documents\visual studio 2012\Projects\multi-example\multi1\bin\Debug\Ninject.xml
+c:\users\shay\documents\visual studio 2012\Projects\multi-example\multi1\obj\Debug\multi1.csprojResolveAssemblyReference.cache
+c:\users\shay\documents\visual studio 2012\Projects\multi-example\multi1\obj\Debug\multi1.dll
+c:\users\shay\documents\visual studio 2012\Projects\multi-example\multi1\obj\Debug\multi1.pdb
